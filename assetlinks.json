@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ml.maliendev.sani_store",
+      "sha256_cert_fingerprints":
+      ["c8:05:cb:30:d7:0e:78:97:7e:10:cd:bd:3a:29:50:f7:ff:54:4c:70:4a:be:ae:c5:f8:e7:72:52:b2:6e:c4:24"]
+    }
+  }]
